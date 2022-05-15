@@ -1,3 +1,253 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MIGU live
-http://d1--cn-gotcha208.bilivideo.com/live-bvc/207659/live_1665228366_49880095_prohevc/index.m3u8?expires=1652520575&len=0&oi=1900534185&pt=ios&qn=10000&trid=10071c5a6d440041431c803479c0dd829b23&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=cfdb6c07c80cc0a94a60f16b443d6b80&sk=c9c6154426932efa80d25af02e87a3bd&p2p_type=8192&src=57345&sl=2&free_type=0&flowtype=1&machinezone=ylf&pp=rtmp&source=onetier&order=1&site=80ebbe288d26c1e91abf5a0369a78786
+#EXTINF:-1 group-title="##HKDTMB##",港台电视31
+https://cdn.hklive.tv/hls/31/index.m3u8
+#EXTINF:-1 group-title="##HKDTMB##",港台电视32
+https://cdn.hklive.tv/hls/32/index.m3u8
+#EXTINF:-1 group-title="##HKDTMB##",港台电视33
+https://cdn.hklive.tv/hls/33/index.m3u8
+#EXTINF:-1 group-title="##HKDTMB##",香港开电视
+https://cdn.hklive.tv/hls/77/index.m3u8
+#EXTINF:-1 group-title="##HKDTMB##",香港国际财经台
+https://cdn.hklive.tv/hls/76/index.m3u8
+#EXTINF:-1 group-title="##HKDTMB##",翡翠台
+https://cdn.hklive.tv/hls/81/index.m3u8
+#EXTINF:-1 group-title="##HKDTMB##",J2台
+https://cdn.hklive.tv/hls/82/index.m3u8
+#EXTINF:-1 group-title="##HKDTMB##",无线新闻台
+https://cdn.hklive.tv/hls/83/index.m3u8
+#EXTINF:-1 group-title="##HKDTMB##",明珠台
+https://cdn.hklive.tv/hls/84/index.m3u8
+#EXTINF:-1 group-title="##HKDTMB##",无线财经·资讯台
+https://cdn.hklive.tv/hls/85/index.m3u8
+#EXTINF:-1 group-title="##HKDTMB##",ViuTV
+https://cdn.hklive.tv/hls/99/index.m3u8
+#EXTINF:-1 group-title="##HKDTMB##",ViuTV6
+https://cdn.hklive.tv/hls/96/index.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",三立新闻台
+http://60.249.146.250:8597/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",三立都会台
+http://60.249.146.250:8557/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",三立台湾台
+http://60.249.146.250:8534/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",三立台湾台
+http://59.125.101.187:18731/http/192.168.77.24:8081/hls/65/807/ch20.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",八大综合台
+http://60.249.146.250:8520/http/60.251.39.91:8081/hls/66/808/ch21.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",八大第一台
+http://60.249.146.250:8519/http/60.251.39.91:8081/hls/66/808/ch22.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",八大戏剧台
+http://60.249.146.250:8588/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",东森幼幼台
+http://60.249.146.250:8515/http/60.251.39.91:8081/hls/63/805/ch09.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",东森洋片台
+http://120.84.96.25:808/hls/33/index.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",东森电影台
+http://120.84.96.25:808/hls/32/index.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",东森新闻台
+http://60.249.146.250:8594/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",东森财经台
+http://60.249.146.250:8546/http/60.251.39.91:8081/hls/63/805/ch11.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",东森综合台
+http://60.249.146.250:8581/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",东森戏剧台
+http://60.249.146.250:8587/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",东森超视台
+http://60.249.146.250:8582/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",StarWorld
+http://60.249.146.250:8561/http/60.251.39.91:8081/hls/61/803/ch02.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",华视新闻资讯
+http://60.249.146.250:8592/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",卫视中文台
+http://60.249.146.250:8579/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",卫视电影台
+http://60.249.146.250:8553/http/60.251.39.91:8081/hls/62/804/ch07.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",NHK国际台
+http://60.249.146.250:8552/http/60.251.39.91:8081/hls/62/804/ch06.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",FOX电影台
+http://60.249.146.250:8560/http/60.251.39.91:8081/hls/62/804/ch08.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",国兴卫视
+http://60.249.146.250:8545/http/60.251.39.91:8081/hls/64/806/ch15.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",正德佛教
+http://60.249.146.250:8511/http/60.251.39.91:8081/hls/64/806/ch16.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",TVBS欢乐
+http://60.249.146.250:8589/http/60.251.39.91:8081/hls/65/807/ch17.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",壹电视新闻
+http://60.249.146.250:8548/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",中天综合台
+http://60.249.146.250:8583/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",中天娱乐台
+http://60.249.146.250:8584/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",年代新闻台
+http://60.249.146.250:8593/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",纬来体育台
+http://60.249.146.250:8563/http/60.251.39.91:8081/hls/67/809/ch28.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",CNN新闻台
+http://60.249.146.250:8549/http/60.251.39.91:8081/hls/68/810/ch29.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",纬来育乐台
+http://60.249.146.250:8562/http/60.251.39.91:8081/hls/68/810/ch30.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",东风卫视台
+http://60.249.146.250:8585/http/60.251.39.91:8081/hls/68/810/ch31.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",纬来综合台
+http://60.249.146.250:8518/http/60.251.39.91:8081/hls/68/810/ch32.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",纬来戏剧台
+http://60.249.146.250:8590/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",纬来日本台
+http://60.249.146.250:8591/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",纬来电影台
+http://60.249.146.250:8555/http/60.251.39.91:8081/hls/69/811/ch35.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",人间卫视台
+http://60.249.146.250:8506/http/60.251.39.91:8081/hls/69/811/ch36.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",动物星球台
+http://60.249.146.250:8512/http/60.251.39.91:8081/hls/70/812/ch37.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",旅游生活台
+http://60.249.146.250:8511/http/60.251.39.91:8081/hls/70/812/ch38.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",索尼动画台
+http://60.249.146.250:8516/http/60.251.39.91:8081/hls/70/812/ch39.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",迪士尼频道
+http://60.249.146.250:8514/http/60.251.39.91:8081/hls/70/812/ch40.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",HBO亚洲台
+http://60.249.146.250:8580/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",HBO电影台
+http://60.249.146.250:8559/http/60.251.39.91:8081/hls/71/813/ch42.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",AXN亚洲台
+http://60.249.146.250:8558/http/60.251.39.91:8081/hls/71/813/ch43.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",探索发现台
+http://60.249.146.250:8510/http/60.251.39.91:8081/hls/71/813/ch44.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",年代MUCH
+http://60.249.146.250:8586/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",台视无线台
+http://60.249.146.250:8548/http/60.251.39.91:8081/hls/72/814/ch46.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",中视无线台
+http://60.249.146.250:8502/http/60.251.39.91:8081/hls/72/814/ch47.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",华视无线台
+http://60.249.146.250:8503/http/60.251.39.91:8081/hls/72/814/ch48.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",民视无线台
+http://60.249.146.250:8504/http/60.251.39.91:8081/hls/73/815/ch49.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",公视无线台
+http://60.249.146.250:8505/http/60.251.39.91:8081/hls/73/815/ch50.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",民视新闻台
+http://60.249.146.250:8596/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",大爱电视台
+http://60.249.146.250:8507/http/60.251.39.91:8081/hls/73/815/ch52.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",好消息综合
+http://60.249.146.250:8508/http/60.251.39.91:8081/hls/74/816/ch53.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",好莱坞电影
+http://60.249.146.250:8521/http/60.251.39.91:8081/hls/74/816/ch55.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",亚洲旅游台
+http://60.249.146.250:8513/http/60.251.39.91:8081/hls/76/818/ch61.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",寰宇新闻台
+http://60.249.146.250:8547/http/60.251.39.91:8081/hls/76/818/ch62.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",中天新闻台
+http://60.249.146.250:8595/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",优视综合台
+http://60.249.146.250:8523/http/60.251.39.91:8081/hls/76/818/momo_max.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",龙华戏剧台
+http://60.249.146.250:8572/http/60.251.39.91:8066/hls/210/10010/cstv10.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",龙华日韩台
+http://60.249.146.250:8535/http/60.251.39.91:8066/hls/210/10011/cstv11.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",龙华偶像台
+http://60.249.146.250:8536/http/60.251.39.91:8066/hls/210/10012/cstv12.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",龙华卡通台
+http://60.249.146.250:8517/http/60.251.39.91:8066/hls/210/10013/cstv13.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",龙华电影台
+http://60.249.146.250:8522/http/60.251.39.91:8066/hls/210/10014/cstv14.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",博斯运动台
+http://60.249.146.250:8564/http/60.251.39.91:8066/hls/210/10018/cstv18.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",ELEVEN1台
+http://60.249.146.250:8566/http/60.251.39.91:8078/hls/25/80/esport.m3u8
+#EXTINF:-1 group-title="##湾湾TW##",ELEVEN2台
+http://60.249.146.250:8567/http/60.251.39.91:8078/hls/26/80/esport2.m3u8
+#EXTINF:-1 group-title="珠海电信",CCTV-1综合  [1920*1080]
+http://183.63.15.42:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 group-title="珠海电信",CCTV-2财经  [1920*1080]
+http://183.63.15.42:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="珠海电信",CCTV-3综艺  [1920*1080]
+http://183.63.15.42:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="珠海电信",CCTV-4中文  [1920*1080]
+http://183.63.15.42:9901/tsfile/live/0004_1.m3u8
+#EXTINF:-1 group-title="珠海电信",CCTV-5体育  [1920*1080]
+http://183.63.15.42:9901/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="珠海电信",CCTV-5赛事  [1920*1080]
+http://183.63.15.42:9901/tsfile/live/0127_1.m3u8
+#EXTINF:-1 group-title="珠海电信",CCTV-6电影  [1920*1080]
+http://183.63.15.42:9901/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="珠海电信",CCTV-7国防  [1920*1080]
+http://183.63.15.42:9901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="珠海电信",CCTV-8电视  [1920*1080]
+http://183.63.15.42:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="珠海电信",CCTV-9纪录  [1920*1080]
+http://183.63.15.42:9901/tsfile/live/0009_1.m3u8
+#EXTINF:-1 group-title="珠海电信",CCTV-10科教[1920*1080]
+http://183.63.15.42:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="珠海电信",CCTV-11戏曲[1920*1080]
+http://183.63.15.42:9901/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="珠海电信",CCTV-12社会[1920*1080]
+http://183.63.15.42:9901/tsfile/live/0012_1.m3u8
+#EXTINF:-1 group-title="珠海电信",CCTV-13新闻[1920*1080]
+http://183.63.15.42:9901/tsfile/live/0013_1.m3u8
+#EXTINF:-1 group-title="珠海电信",CCTV-14少儿[1920*1080]
+http://183.63.15.42:9901/tsfile/live/0014_1.m3u8
+#EXTINF:-1 group-title="珠海电信",CCTV-15音乐[1920*1080]
+http://183.63.15.42:9901/tsfile/live/0015_1.m3u8
+#EXTINF:-1 group-title="珠海电信",CCTV-16奥林[1920*1080]
+http://183.63.15.42:9901/tsfile/live/0128_1.m3u8
+#EXTINF:-1 group-title="珠海电信",CCTV-17农业[1920*1080]
+http://183.63.15.42:9901/tsfile/live/0019_1.m3u8
+#EXTINF:-1 group-title="珠海电信",广西卫视[1920*1080]
+http://183.63.15.42:9901/tsfile/live/0113_1.m3u8
+#EXTINF:-1 group-title="珠海电信",吉林卫视[1920*1080]
+http://183.63.15.42:9901/tsfile/live/0116_1.m3u8
+#EXTINF:-1 group-title="珠海电信",河北卫视[1920*1080]
+http://183.63.15.42:9901/tsfile/live/0117_1.m3u8
+#EXTINF:-1 group-title="珠海电信",云南卫视[1920*1080]
+http://183.63.15.42:9901/tsfile/live/0119_1.m3u8
+#EXTINF:-1 group-title="珠海电信",贵州卫视[1920*1080]
+http://183.63.15.42:9901/tsfile/live/0120_1.m3u8
+#EXTINF:-1 group-title="珠海电信",辽宁卫视[1920*1080]
+http://183.63.15.42:9901/tsfile/live/0121_1.m3u8
+#EXTINF:-1 group-title="珠海电信",东南卫视[1920*1080]
+http://183.63.15.42:9901/tsfile/live/0123_1.m3u8
+#EXTINF:-1 group-title="珠海电信",海南卫视[1920*1080]
+http://183.63.15.42:9901/tsfile/live/0131_1.m3u8
+#EXTINF:-1 group-title="珠海电信",湖北卫视[1920*1080]
+http://183.63.15.42:9901/tsfile/live/0132_1.m3u8
+#EXTINF:-1 group-title="珠海电信",江西卫视[1920*1080]
+http://183.63.15.42:9901/tsfile/live/0138_1.m3u8
+#EXTINF:-1 group-title="珠海电信",浙江卫视[1920*1080]
+http://183.63.15.42:9901/tsfile/live/0139_1.m3u8
+#EXTINF:-1 group-title="珠海电信",河南卫视[1920*1080]
+http://183.63.15.42:9901/tsfile/live/0141_1.m3u8
+#EXTINF:-1 group-title="珠海电信",重庆卫视[1920*1080]
+http://183.63.15.42:9901/tsfile/live/0142_1.m3u8
+#EXTINF:-1 group-title="珠海电信",广东卫视[1920*1080]
+http://183.63.15.42:9901/tsfile/live/0125_1.m3u8
+#EXTINF:-1 group-title="珠海电信",广东珠江[1920*1080]
+http://183.63.15.42:9901/tsfile/live/0109_1.m3u8
+#EXTINF:-1 group-title="珠海电信",广东体育[1920*1080]
+http://183.63.15.42:9901/tsfile/live/0136_1.m3u8
+#EXTINF:-1 group-title="珠海电信",广东新闻[1920*1080]
+http://183.63.15.42:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 group-title="珠海电信",广东公共[1920*1080]
+http://183.63.15.42:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="珠海电信",广东经济[1920*1080]
+http://183.63.15.42:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 group-title="珠海电信",广东影视[1920*1080]
+http://183.63.15.42:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="珠海电信",广东少儿[1920*1080]
+http://183.63.15.42:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 group-title="珠海电信",嘉佳卡通[1920*1080]
+http://183.63.15.42:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1 group-title="珠海电信",南方卫视[1920*1080]
+http://183.63.15.42:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="珠海电信",梨园频道[1920*1080]
+http://183.63.15.42:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="珠海电信",武术世界[1920*1080]
+http://183.63.15.42:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1 group-title="珠海电信",文物宝库[1920*1080]
+http://183.63.15.42:9901/tsfile/live/1015_1.m3u8
