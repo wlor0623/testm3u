@@ -971,5 +971,37 @@ http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 #EXTINF:-1 group-title="港澳台频道",澳视二台
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:-1 group-title="港澳台频道",欧冠决赛
-https://de274b36ce611a6a15b7a3da7e123a6e.v.smtcdns.net/txycdn.video.qq.com/6B345824F2927E5769EE03E18EEE020E88C762CCCC5D1FA5D0CDDA021C9A7C71C40ED6B2E399D5D9181D4E5244E4E6E4CF225B75574A556F5E27F44F3FAF82000D825EB8D01538460E6277086E3622D5866249D6792C1E6C887CEF6B649A661B42B20EDC20D7DA978CF688489D426CFD6143C705968E915128E2981F0D9AEEB1/1745239003.m3u8?from=player&cdncode=%2f18907E7BE0798990%2f&time=1653767088&cdn=tcloud&sdtfrom=v402212&platform=40201&butype=2&scheduleflag=0&HLSP2P=1&buname=qqlive&vkey=6B345824F2927E5769EE03E18EEE020E88C762CCCC5D1FA5D0CDDA021C9A7C71C40ED6B2E399D5D9181D4E5244E4E6E4CF225B75574A556F5E27F44F3FAF82000D825EB8D01538460E6277086E3622D5866249D6792C1E6C887CEF6B649A661B42B20EDC20D7DA978CF688489D426CFD6143C705968E915128E2981F0D9AEEB1&dr=0
+#EXTINF:-1 group-title="港澳台频道",龙翔时代
+龙翔时代, http://120.84.96.33:808/hls/35/index.m3u8
+#EXTINF:-1 group-title="港澳台频道",东森电影
+东森电影, http://120.84.96.25:808/hls/32/index.m3u8
+#EXTINF:-1 group-title="港澳台频道",东森电影
+东森电影, http://120.84.96.32:808/hls/32/index.m3u8
+#EXTINF:-1 group-title="港澳台频道",东森洋片
+东森洋片, http://120.84.96.32:808/hls/33/index.m3u8
+#EXTINF:-1 group-title="港澳台频道",东森洋片
+东森洋片, http://120.84.96.25:808/hls/33/index.m3u8
+#EXTINF:-1 group-title="港澳台频道",J2
+J2, https://aaaaa.pejian.com:443/xgj2/xgj2app.m3u8
+#EXTINF:-1 group-title="港澳台频道",J2
+J2, http://120.84.96.29:808/hls/86/index.m3u8
+#EXTINF:-1 group-title="港澳台频道",有线603
+有线603, http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/11
+#EXTINF:-1 group-title="港澳台频道",18台
+18台, http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/12
+#EXTINF:-1 group-title="港澳台频道",港台31
+港台31, http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/13
+#EXTINF:-1 group-title="港澳台频道",港台32
+港台32, http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/14
+#EXTINF:-1 group-title="港澳台频道",凤凰电影
+凤凰电影, http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+#EXTINF:-1 group-title="港澳台频道",凤凰卫视
+凤凰卫视, http://117.169.120.138:8080/live/fhchinese/.m3u8
+#EXTINF:-1 group-title="港澳台频道",松视1台
+松视1台, http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/477
+#EXTINF:-1 group-title="港澳台频道",松视3台
+松视3台, http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/479
+#EXTINF:-1 group-title="港澳台频道",新加坡国际
+新加坡国际, https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="港澳台频道",星空卫视
+星空卫视, http://120.84.96.25:808/hls/79/index.m3u8
